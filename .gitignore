@@ -1,6 +1,2 @@
-notebooks/temp_*.ipynb
-
 # Ignore large raw data files
-data/*.gz
-data/*.zip
-data/*download*/
+data/
